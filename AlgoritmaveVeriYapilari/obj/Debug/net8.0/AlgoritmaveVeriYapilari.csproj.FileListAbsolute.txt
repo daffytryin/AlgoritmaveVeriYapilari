@@ -1,0 +1,14 @@
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\bin\Debug\net8.0\AlgoritmaveVeriYapilari.exe
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\bin\Debug\net8.0\AlgoritmaveVeriYapilari.deps.json
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\bin\Debug\net8.0\AlgoritmaveVeriYapilari.runtimeconfig.json
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\bin\Debug\net8.0\AlgoritmaveVeriYapilari.dll
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\bin\Debug\net8.0\AlgoritmaveVeriYapilari.pdb
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.AssemblyInfoInputs.cache
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.AssemblyInfo.cs
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.csproj.CoreCompileInputs.cache
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.dll
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\refint\AlgoritmaveVeriYapilari.dll
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.pdb
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.genruntimeconfig.cache
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\ref\AlgoritmaveVeriYapilari.dll
