@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgoritmaveVeriYapilari")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08dda041c161344772e01b935ebfd1e7e8b6d0f7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8ef2dcb3ceaf1e4bb5ecf0351667e7d2688775e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgoritmaveVeriYapilari")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgoritmaveVeriYapilari")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

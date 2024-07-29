@@ -38,6 +38,9 @@ namespace AlgoritmaveVeriYapilari.Giris
             Console.WriteLine("{0} - {1}", ushort.MinValue, ushort.MaxValue); //UNSİGNED ise negatif olmaz
             Console.WriteLine("{0} - {1}", int.MinValue, int.MaxValue);
 
+
+            
+
         }
     }
 }
