@@ -12,3 +12,4 @@ C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\
 C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.pdb
 C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.genruntimeconfig.cache
 C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\ref\AlgoritmaveVeriYapilari.dll
+C:\Users\taspi\source\repos\AlgoritmaveVeriYapilari\AlgoritmaveVeriYapilari\obj\Debug\net8.0\AlgoritmaveVeriYapilari.sourcelink.json
